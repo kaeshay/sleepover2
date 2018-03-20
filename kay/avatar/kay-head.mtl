@@ -1,0 +1,14 @@
+# MTL
+
+newmtl Layer_1_mtl
+	map_Kd kay-head_Layer_1.png
+
+
+newmtl Layer_2_mtl
+	map_Kd kay-head_Layer_2.png
+
+
+newmtl Layer_5_mtl
+	map_Kd kay-head_Layer_5.png
+
+
