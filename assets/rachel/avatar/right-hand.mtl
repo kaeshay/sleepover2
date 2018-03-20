@@ -1,0 +1,6 @@
+# MTL
+
+newmtl Layer_1_mtl
+	map_Kd right-hand_Layer_1.png
+
+
